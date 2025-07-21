@@ -5,13 +5,13 @@ const Work = () => {
         {
             title: "BongHut",
             description: "An E-commerce Website for selling clothes build using MERN Stack and integrated with Razorpay for payment processing.",
-            image: "/rydo.png",
+            image: "/bonghut.png",
             link: "https://bong-hut-frontend.vercel.app/"
         }, 
         {
             title: "Rydo",
             description: "A cab booking website built using MERN Stack with features like real-time tracking and booking management and integrated with MapBox API and Razorpay for payment processing.",
-            image: "/bonghut.png",
+            image: "/rydo.png",
             link: "https://rydo-two.vercel.app/"
         },
         {
